@@ -23,8 +23,4 @@ header{
     height: 100%; /* Define a altura do container para ocupar toda a altura do header */
 }
 
-.secao-itens{
-    background-color: #FBF4EE;
-    width: 50%;
-    height: 100px;
-}
+
