@@ -115,6 +115,7 @@
                             id="cep"
                             name="cep"
                             placeholder="CEP"
+                            onblur="buscarEndereco(this.value)"
                         >
 
                         <input 
@@ -127,7 +128,7 @@
 
                         <input 
                             class="form-contact__input form-contact__input--quarto"
-                            type="text"
+                            type="number"
                             id="numero"
                             name="numero"
                             placeholder="Número"
@@ -145,7 +146,7 @@
                             type="text"
                             id="complemento"
                             name="complemento"
-                            placeholder="Apto, casa, etc"
+                            placeholder="Complemento"
                         >
 
                         <input 

@@ -15,7 +15,7 @@
 body {
     width: 100vw;
     min-height: 100vh;
-    background-image: linear-gradient(to right, #18aee0, #72c3bd);
+    background-image: linear-gradient(to right, #147797, #18aee0, #72c3bd);
     background-repeat: no-repeat;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .form-contact__input::placeholder {
-    color: #18aee0;
+    color: #94c9db;
 }
 
 .form-contact__input:focus {
